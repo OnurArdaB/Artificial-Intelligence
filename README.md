@@ -10,6 +10,7 @@ Introductive Course to Artificial Intelligence
 ## HW-4:Propositional Logic
 
 ## HW-5:Programming HW's
-  -a:Recursive Depth First Search algorithm implemented in Python
-  -b:Prolog program for solving a murder
+  * a:Recursive Depth First Search algorithm implemented in Python
+  
+  * b:Prolog program for solving a murder
 
